@@ -1,0 +1,9 @@
+python 3.11
+psychopg2
+mysql
+mysqlclient
+django 5
+djangorestframework
+django-phonenumber-filed
+phonenumbers
+pillow
